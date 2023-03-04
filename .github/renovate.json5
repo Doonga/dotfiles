@@ -5,7 +5,7 @@
     "github>doonga/renovate-config:automerge-github-actions",
   ],
   platform: "github",
-  username: "doonga-bot[bot]",
+  username: "greyrock-bot[bot]",
   gitAuthor: "greyrock-bot <1583719+greyrock-bot[bot]@users.noreply.github.com>",
   repositories: ["doonga/dotfiles"],
   regexManagers: [],
